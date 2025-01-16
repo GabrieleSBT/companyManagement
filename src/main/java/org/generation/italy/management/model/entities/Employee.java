@@ -1,12 +1,10 @@
-package org.generation.italy.management.entities;
+package org.generation.italy.management.model.entities;
 
 
 import java.util.Date;
 
 
 import jakarta.persistence.*;
-import java.math.BigDecimal;
-import java.util.Date;
 
 
 @Entity

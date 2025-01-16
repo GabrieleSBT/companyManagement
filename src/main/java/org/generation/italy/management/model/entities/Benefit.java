@@ -1,4 +1,4 @@
-package org.generation.italy.management.entities;
+package org.generation.italy.management.model.entities;
 
 import java.math.BigDecimal;
 import java.util.Date;

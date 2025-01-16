@@ -1,4 +1,4 @@
-package org.generation.italy.management.entities;
+package org.generation.italy.management.model.entities;
 import jakarta.persistence.*;
 @Entity
 @Table(name = "sim_benefits")
